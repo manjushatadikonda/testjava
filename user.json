@@ -1,0 +1,12 @@
+{
+"Firstname":"Manjusha",
+"Middlename":"lakshmi",
+"Lastname":"Tadikonda",
+"Course":"BBA",
+"Gender":"male",
+"Phone" :"6122222222",
+"Address":"Address1",
+"Email": "email@gmail.com",
+"Password": "Password1!",
+"Retypepassword":"Password1!"
+}
